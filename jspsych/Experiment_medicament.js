@@ -182,8 +182,7 @@ var question = {
       } else {
         return "<p>Erreur : réponse inattendue.</p>";
       }
-    },
-    name: 'recovery_prediction' // Adding a name to track this specific question
+    }
   }
 ]
 }
